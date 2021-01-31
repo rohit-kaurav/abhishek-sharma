@@ -1,6 +1,6 @@
 import MenuItems from '../../constants/navbar-constants';
 
-function Navbar(props) {
+function Navbar (props) {
   return (
     <div className="navbar">
       <span className="p-5">
