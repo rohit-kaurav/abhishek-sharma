@@ -1,4 +1,4 @@
-import MenuItems from '../constants/navbar-constants';
+import MenuItems from '../../constants/navbar-constants';
 
 function Navbar(props) {
   return (
